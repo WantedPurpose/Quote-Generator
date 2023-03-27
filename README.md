@@ -4,7 +4,7 @@ This Source code is designed to generate quotes on various topics such as motiva
 
 ## How to use
 
-`1` Make sure __html, css, javascript__ files are in one folder
+`1` Make sure _html, css, javascript_ files are in one folder
 
 `2` Cick on `index.html` to run your project
 
