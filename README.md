@@ -6,7 +6,9 @@ This Source code is designed to generate quotes on various topics such as motiva
 
 `1` Make sure _html, css, javascript_ files are in one folder
 
-`2` Cick on `index.html` to run your project
+`2` Open `index.html` to run your project
+
+`3` Click "**New Quote**" to take one
 
 
 
